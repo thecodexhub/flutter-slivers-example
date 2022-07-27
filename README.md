@@ -1,16 +1,23 @@
-# flutter_slivers_example
+# Flutter Slivers Example
 
-A new Flutter project.
+Slivers in Flutter - Efficient and Fancy Scrolling Experience. Learn one of the scariest topics in Flutter - what is sliver and how to make use of it to make an elegant scroll view.
+
+_This project is based on a Medium article on Slivers in Flutter. Check out the article here._
+
+This article teaches - 
+- how Flutter builds layout with RenderObjects.
+- how slivers work using sliver protocol and paint widgets using sliver geometry.
+- what the advantages of slivers are and how to use them.
+- how to make scrollable app bars and configure their properties - floating, pinned, snap.
+- how to work with sliver lists and sliver grids.
+- how to layout a box widget inside sliver using SliverToBoxAdapter.
+- what the usecases of SliverFillRemaining are.
+- how to create custom pinned subheaders using SliverPersistentHeader.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### If you like this repository, kindly give it a star ⭐
