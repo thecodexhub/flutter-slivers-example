@@ -14,6 +14,27 @@ This article teaches -
 - what the usecases of SliverFillRemaining are.
 - how to create custom pinned subheaders using SliverPersistentHeader.
 
+## Preview
+
+<div style="text-align: center">
+   <table>
+      <tr>
+         <td style="text-align: center">
+            <img src="screenshots/ss1.png" width="200" />
+         </td>
+         <td style="text-align: center">
+            <img src="screenshots/ss2.png" width="200" />
+         </td>
+         <td style="text-align: center">
+            <img src="screenshots/ss3.png" width="200" />
+         </td>
+         <td style="text-align: center">
+            <img src="screenshots/ss4.png" width="200" />
+         </td>
+      </tr>
+   </table>
+</div>
+
 ## Getting Started
 
 For help getting started with Flutter development, view the
