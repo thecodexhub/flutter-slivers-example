@@ -2,7 +2,8 @@
 
 Slivers in Flutter - Efficient and Fancy Scrolling Experience. Learn one of the scariest topics in Flutter - what is sliver and how to make use of it to make an elegant scroll view.
 
-_This project is based on a Medium article on Slivers in Flutter. Check out the article here._
+> **Note** 
+> _This project is based on a Medium article on Slivers in Flutter. Check out the article [here](https://medium.com/@thecodexhubofficial/slivers-in-flutter-efficient-and-fancy-scrolling-experience-9a3f5b370666)._
 
 This article teaches - 
 - how Flutter builds layout with RenderObjects.
